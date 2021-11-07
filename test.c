@@ -12,4 +12,6 @@ int main()
         else
         printf("%d is even\n",i);
     }
+    clrscr();
+    return 0;
 }
